@@ -1,0 +1,21 @@
+{
+  "name": "crate-digger",
+  "version": "0.1.0",
+  "description": "Coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.3",
+    "node-gracenote": "git://github.com/ddanninger/node-gracenote"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kennyczadzeck/crate-digger"
+  }
+}
